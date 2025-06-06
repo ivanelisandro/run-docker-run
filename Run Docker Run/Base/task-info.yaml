@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: hyper-app/main.py
+    visible: true
+    learner_created: false
+  - name: hyper-app/requirements.txt
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: hyper-app/stage1.md
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/28752#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 06 Jun 2025 13:43:39 UTC"
+record: -1
