@@ -15,6 +15,21 @@ files:
   - name: tests.py
     visible: false
     learner_created: false
+  - name: hyper-app/stage1.md
+    visible: true
+    learner_created: true
+  - name: hyper-app/stage2.md
+    visible: true
+    learner_created: true
+  - name: ./Dockerfile
+    visible: true
+    learner_created: true
+  - name: Dockerfile
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/learn/step/28753#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 09 Jun 2025 20:03:01 UTC"
 record: -1
