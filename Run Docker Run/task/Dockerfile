@@ -6,7 +6,8 @@ EXPOSE 8000
 
 WORKDIR /home/app
 
-ADD hyper-app /
+ADD /hyper-app/requirements.txt .
+ADD /hyper-app/main.py .
 
 RUN pip install -r requirements.txt
 
